@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
 
         int price = 13676;
-        int price_bonus = 20;
+        int priceBonus = 20;
 
         System.out.println("Количество бонусов:");
-        System.out.println(price / price_bonus);
+        System.out.println(price / priceBonus);
         
     }
 }
